@@ -193,5 +193,6 @@ $('document').ready(function(){
 		msgLoop(0);
 
 	});
+});
 
 //alert('hello');
